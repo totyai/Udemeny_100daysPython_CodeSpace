@@ -10,6 +10,8 @@ However each modul (or as it is called within the course: Day) will have its sep
 - [Day 2](https://github.com/totyai/Udemeny_100daysPython_Day2)
 - [Day 3](https://github.com/totyai/Udemy_100daysPython_Day3)
 - [Day 4](https://github.com/totyai/Udemy_100daysPython_Day4)
+- [Day 5](https://github.com/totyai/Udemy_100daysPython_Day5)
+- [Day 6](https://github.com/totyai/Udemy_100daysPython_Day6)
 
 ## Course overview
 "Welcome to the 100 Days of Code - The Complete Python Pro Bootcamp, the only course you need to learn to code with Python. With over 500,000 5 STAR reviews and a 4.8 average, my courses are some of the HIGHEST RATED courses in the history of Udemy!  
